@@ -1,6 +1,9 @@
 {
   "name": "foodprint-server",
   "version": "0.0.1",
+  "engines": {
+    "node": "7.10.1"
+  },
   "description": "The server for foodprint",
   "main": "index.js",
   "scripts": {
